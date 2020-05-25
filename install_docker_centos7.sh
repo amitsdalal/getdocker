@@ -1,5 +1,6 @@
 #!/bin/bash
 # Install docker in centos
+yum update -y
 
 # Remove any old versions
 sudo yum remove docker docker-common docker-selinux docker-engine
