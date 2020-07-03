@@ -1,6 +1,6 @@
 # Install Docker Daemon CentOS 7
 
-You can create new ssh key for the user you run the below command.
+Just issue below command and it will install docker on centos 7. 
 
 
 
