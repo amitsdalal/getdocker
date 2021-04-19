@@ -6,7 +6,7 @@ Just issue below command and it will install docker on centos 7.
 
 
 
-` curl -s https://raw.githubusercontent.com/amitsdalal/install_docker_centos7/master/install_docker_centos7.sh | bash
+` curl -s https://raw.githubusercontent.com/amitsdalal/getdocker/master/get-docker.py | python
 `
 
 
