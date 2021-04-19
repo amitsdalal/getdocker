@@ -1,6 +1,6 @@
-# Install Docker Daemon CentOS 7
+# Install Docker Daemon CentOS 7 and Ubuntu
 
-Just issue below command and it will install docker on centos 7. 
+Just issue below command and it will install docker on centos 7 and Ubuntu. 
 
 
 
